@@ -8,8 +8,8 @@ package scalable
 
 import (
 	"fmt"
-	"github.com/zhenjl/bloom"
-	"github.com/zhenjl/bloom/partitioned"
+	"github.com/jasonmoo/bloom"
+	"github.com/jasonmoo/bloom/partitioned"
 	"hash"
 	"hash/fnv"
 	"math"

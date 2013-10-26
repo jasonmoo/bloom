@@ -12,7 +12,7 @@ import (
 	"crypto/sha1"
 	"fmt"
 	"github.com/spaolacci/murmur3"
-	"github.com/zhenjl/bloom"
+	"github.com/jasonmoo/bloom"
 	"github.com/zhenjl/cityhash"
 	"hash"
 	"hash/crc64"

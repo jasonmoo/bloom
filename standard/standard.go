@@ -13,7 +13,7 @@ import (
 
 	"encoding/binary"
 	"github.com/willf/bitset"
-	"github.com/zhenjl/bloom"
+	"github.com/jasonmoo/bloom"
 	"math"
 )
 
